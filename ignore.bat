@@ -1,0 +1,2 @@
+echo LOL XD
+pause
